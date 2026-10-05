@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 155 problems · 0 labs · 0 math
+**156** solved · 156 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -151,6 +151,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularization via Information Bottleneck](https://www.deep-ml.com/problems/503) | easy | 2026-10-03 | [solution](problems/0503-regularization-via-information-bottleneck) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-02 | [solution](problems/0003-reshape-matrix) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-10-03 | [solution](problems/0488-reward-model-validation-accuracy) |
+| [Runtime Gym Space Validation](https://www.deep-ml.com/problems/661) | easy | 2026-10-05 | [solution](problems/0661-runtime-gym-space-validation) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-03 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-02 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-02 | [solution](problems/0141-shift-and-scale-array-to-target-range) |

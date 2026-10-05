@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:59:52.673Z",
+  "generated_at": "2026-10-05T09:34:54.473Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2015,6 +2015,19 @@
       "last_pushed_at": "2026-10-05T07:59:51.719Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:661": {
+      "kind": "problem",
+      "id": "661",
+      "title": "Runtime Gym Space Validation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/661",
+      "path": "problems/0661-runtime-gym-space-validation",
+      "first_solved_at": "2026-10-05T09:34:53.529Z",
+      "last_pushed_at": "2026-10-05T09:34:53.529Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
