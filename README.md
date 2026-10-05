@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**152** solved · 152 problems · 0 labs · 0 math
+**153** solved · 153 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -141,6 +141,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-10-03 | [solution](problems/0509-optimistic-initialization-for-exploration) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-10-03 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-10-02 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
+| [Ply-Based Value Discounting](https://www.deep-ml.com/problems/640) | easy | 2026-10-05 | [solution](problems/0640-ply-based-value-discounting) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-02 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Prefix Cache Hit Rate Calculator](https://www.deep-ml.com/problems/434) | easy | 2026-10-03 | [solution](problems/0434-prefix-cache-hit-rate-calculator) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-10-03 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
