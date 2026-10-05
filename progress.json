@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:39:39.231Z",
+  "generated_at": "2026-10-05T10:45:26.487Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2038,7 +2038,7 @@
       "url": "https://www.deep-ml.com/problems/663",
       "path": "problems/0663-multi-agent-data-canonicalization",
       "first_solved_at": "2026-10-05T10:39:38.067Z",
-      "last_pushed_at": "2026-10-05T10:39:38.067Z",
+      "last_pushed_at": "2026-10-05T10:45:25.552Z",
       "language": "python",
       "lines": 30
     }
