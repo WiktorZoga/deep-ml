@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:52:48.773Z",
+  "generated_at": "2026-10-07T12:58:40.648Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2285,9 +2285,9 @@
       "url": "https://www.deep-ml.com/problems/731",
       "path": "problems/0731-hash-based-expert-routing-for-moe-layers",
       "first_solved_at": "2026-10-07T12:52:47.528Z",
-      "last_pushed_at": "2026-10-07T12:52:47.528Z",
+      "last_pushed_at": "2026-10-07T12:58:39.705Z",
       "language": "python",
-      "lines": 28
+      "lines": 31
     }
   }
 }
