@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:19:45.297Z",
+  "generated_at": "2026-10-07T13:25:30.588Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2327,6 +2327,19 @@
       "last_pushed_at": "2026-10-07T13:19:44.457Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:759": {
+      "kind": "problem",
+      "id": "759",
+      "title": "Interleaved CSA-HCA Layer Assignment",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/759",
+      "path": "problems/0759-interleaved-csa-hca-layer-assignment",
+      "first_solved_at": "2026-10-07T13:25:29.722Z",
+      "last_pushed_at": "2026-10-07T13:25:29.722Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }

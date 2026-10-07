@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**179** solved · 179 problems · 0 labs · 0 math
+**180** solved · 180 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-10-03 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-02 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-10-02 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
+| [Interleaved CSA-HCA Layer Assignment](https://www.deep-ml.com/problems/759) | easy | 2026-10-07 | [solution](problems/0759-interleaved-csa-hca-layer-assignment) |
 | [IPC Methods Performance Comparison](https://www.deep-ml.com/problems/671) | easy | 2026-10-07 | [solution](problems/0671-ipc-methods-performance-comparison) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-02 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-10-03 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
