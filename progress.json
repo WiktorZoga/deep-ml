@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:02:37.652Z",
+  "generated_at": "2026-10-07T08:13:30.522Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2067,6 +2067,19 @@
       "last_pushed_at": "2026-10-07T08:02:36.269Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:671": {
+      "kind": "problem",
+      "id": "671",
+      "title": "IPC Methods Performance Comparison",
+      "difficulty": "easy",
+      "category": "Performance Optimization",
+      "url": "https://www.deep-ml.com/problems/671",
+      "path": "problems/0671-ipc-methods-performance-comparison",
+      "first_solved_at": "2026-10-07T08:13:29.068Z",
+      "last_pushed_at": "2026-10-07T08:13:29.068Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
