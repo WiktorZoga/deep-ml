@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**177** solved · 177 problems · 0 labs · 0 math
+**178** solved · 178 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -160,6 +160,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Ply-Based Value Discounting](https://www.deep-ml.com/problems/640) | easy | 2026-10-05 | [solution](problems/0640-ply-based-value-discounting) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-02 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Prefix Cache Hit Rate Calculator](https://www.deep-ml.com/problems/434) | easy | 2026-10-03 | [solution](problems/0434-prefix-cache-hit-rate-calculator) |
+| [Progressive Batch Size Scheduler](https://www.deep-ml.com/problems/750) | easy | 2026-10-07 | [solution](problems/0750-progressive-batch-size-scheduler) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-10-03 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-02 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Regularization via Information Bottleneck](https://www.deep-ml.com/problems/503) | easy | 2026-10-03 | [solution](problems/0503-regularization-via-information-bottleneck) |
