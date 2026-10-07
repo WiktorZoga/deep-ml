@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:23:54.494Z",
+  "generated_at": "2026-10-07T10:39:33.308Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2145,6 +2145,19 @@
       "last_pushed_at": "2026-10-07T10:23:53.732Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:681": {
+      "kind": "problem",
+      "id": "681",
+      "title": "RL Experiment Configuration System",
+      "difficulty": "easy",
+      "category": "Software Engineering",
+      "url": "https://www.deep-ml.com/problems/681",
+      "path": "problems/0681-rl-experiment-configuration-system",
+      "first_solved_at": "2026-10-07T10:39:32.427Z",
+      "last_pushed_at": "2026-10-07T10:39:32.427Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
