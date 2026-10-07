@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**170** solved · 170 problems · 0 labs · 0 math
+**171** solved · 171 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -173,6 +173,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-02 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-02 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-02 | [solution](problems/0153-steplr-learning-rate-scheduler) |
+| [Stop-Gradient Operator in Jointly Trained Models](https://www.deep-ml.com/problems/711) | easy | 2026-10-07 | [solution](problems/0711-stop-gradient-operator-in-jointly-trained-models) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-03 | [solution](problems/0310-taylor-series-approximation) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-10-03 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-02 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
