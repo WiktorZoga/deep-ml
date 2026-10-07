@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 157 problems · 0 labs · 0 math
+**158** solved · 158 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-10-02 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-03 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-10-03 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Episodic Info Dictionary Aggregation](https://www.deep-ml.com/problems/665) | easy | 2026-10-07 | [solution](problems/0665-episodic-info-dictionary-aggregation) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-10-03 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-10-03 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-03 | [solution](problems/0325-exact-match-score-with-normalization) |
