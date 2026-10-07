@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 160 problems · 0 labs · 0 math
+**161** solved · 161 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-02 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-02 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-02 | [solution](problems/0083-dot-product-calculator) |
+| [DQN NatureCNN Architecture Analysis](https://www.deep-ml.com/problems/672) | easy | 2026-10-07 | [solution](problems/0672-dqn-naturecnn-architecture-analysis) |
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-10-02 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-03 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-10-03 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
