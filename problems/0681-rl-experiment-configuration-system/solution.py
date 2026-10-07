@@ -43,8 +43,7 @@ def build_experiment_config(algorithm: str, overrides: dict = None) -> dict:
     if overrides:
         for key, value in overrides.items():
             if key not in config:
-                # return {"error": f"Invalid parameter: {key}"}
-				return {'error': "Invalid parameter 'invalid_param'"}
+                return {"error": f"Invalid parameter '{key}'"}
             config[key] = value
 
     config["algorithm"] = algorithm
