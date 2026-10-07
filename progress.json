@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:18:28.525Z",
+  "generated_at": "2026-10-07T12:33:51.865Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2262,6 +2262,19 @@
       "last_pushed_at": "2026-10-07T12:18:27.656Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:723": {
+      "kind": "problem",
+      "id": "723",
+      "title": "Video Frame Sampling and Preprocessing Pipeline",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/723",
+      "path": "problems/0723-video-frame-sampling-and-preprocessing-pipeline",
+      "first_solved_at": "2026-10-07T12:33:50.848Z",
+      "last_pushed_at": "2026-10-07T12:33:50.848Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

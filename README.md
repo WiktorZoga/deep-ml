@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**174** solved · 174 problems · 0 labs · 0 math
+**175** solved · 175 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -185,6 +185,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-10-03 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-02 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-03 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Video Frame Sampling and Preprocessing Pipeline](https://www.deep-ml.com/problems/723) | easy | 2026-10-07 | [solution](problems/0723-video-frame-sampling-and-preprocessing-pipeline) |
 | [VLM Visual Token Count from Image Resolution and Patch Size](https://www.deep-ml.com/problems/442) | easy | 2026-10-03 | [solution](problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size) |
 
 ---
