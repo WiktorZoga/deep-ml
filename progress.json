@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:08:44.232Z",
+  "generated_at": "2026-10-07T09:45:22.934Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2106,6 +2106,19 @@
       "last_pushed_at": "2026-10-07T09:08:40.994Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:674": {
+      "kind": "problem",
+      "id": "674",
+      "title": "RL Environment Wrapper Profiling",
+      "difficulty": "easy",
+      "category": "Performance Optimization",
+      "url": "https://www.deep-ml.com/problems/674",
+      "path": "problems/0674-rl-environment-wrapper-profiling",
+      "first_solved_at": "2026-10-07T09:45:22.091Z",
+      "last_pushed_at": "2026-10-07T09:45:22.091Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
