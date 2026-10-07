@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**166** solved · 166 problems · 0 labs · 0 math
+**167** solved · 167 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -143,6 +143,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-02 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-02 | [solution](problems/0146-momentum-optimizer) |
 | [Multi-Agent Data Canonicalization](https://www.deep-ml.com/problems/663) | easy | 2026-10-05 | [solution](problems/0663-multi-agent-data-canonicalization) |
+| [Multi-Signal Conditioning for Diffusion Transformers](https://www.deep-ml.com/problems/694) | easy | 2026-10-07 | [solution](problems/0694-multi-signal-conditioning-for-diffusion-transformers) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-10-02 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-02 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-10-03 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
