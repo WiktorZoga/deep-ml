@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:10:20.902Z",
+  "generated_at": "2026-10-07T12:18:28.525Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2249,6 +2249,19 @@
       "last_pushed_at": "2026-10-07T12:10:19.933Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:722": {
+      "kind": "problem",
+      "id": "722",
+      "title": "Data Collection from Procedurally Generated RL Environments",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/722",
+      "path": "problems/0722-data-collection-from-procedurally-generated-rl-environments",
+      "first_solved_at": "2026-10-07T12:18:27.656Z",
+      "last_pushed_at": "2026-10-07T12:18:27.656Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
