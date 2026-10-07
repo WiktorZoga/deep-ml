@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**168** solved · 168 problems · 0 labs · 0 math
+**169** solved · 169 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gym/Gymnasium API Migration Layer](https://www.deep-ml.com/problems/667) | easy | 2026-10-07 | [solution](problems/0667-gym-gymnasium-api-migration-layer) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-10-05 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
 | [Historical Context Compression Ratio](https://www.deep-ml.com/problems/455) | easy | 2026-10-03 | [solution](problems/0455-historical-context-compression-ratio) |
+| [Image Patch Embedding and Reconstruction](https://www.deep-ml.com/problems/705) | easy | 2026-10-07 | [solution](problems/0705-image-patch-embedding-and-reconstruction) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-03 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-02 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-03 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
