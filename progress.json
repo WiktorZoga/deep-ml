@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:11:55.317Z",
+  "generated_at": "2026-10-07T13:19:45.297Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2314,6 +2314,19 @@
       "last_pushed_at": "2026-10-07T13:11:54.277Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:757": {
+      "kind": "problem",
+      "id": "757",
+      "title": "Fill-in-the-Middle Document Transformation",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/757",
+      "path": "problems/0757-fill-in-the-middle-document-transformation",
+      "first_solved_at": "2026-10-07T13:19:44.457Z",
+      "last_pushed_at": "2026-10-07T13:19:44.457Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
