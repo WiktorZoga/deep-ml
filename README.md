@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**176** solved · 176 problems · 0 labs · 0 math
+**177** solved · 177 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -169,6 +169,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [RL Experiment Configuration System](https://www.deep-ml.com/problems/681) | easy | 2026-10-07 | [solution](problems/0681-rl-experiment-configuration-system) |
 | [RL Training Experiment Tracking](https://www.deep-ml.com/problems/679) | easy | 2026-10-07 | [solution](problems/0679-rl-training-experiment-tracking) |
 | [RL Training GPU Utilization Tracker](https://www.deep-ml.com/problems/678) | easy | 2026-10-07 | [solution](problems/0678-rl-training-gpu-utilization-tracker) |
+| [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-10-07 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Runtime Gym Space Validation](https://www.deep-ml.com/problems/661) | easy | 2026-10-05 | [solution](problems/0661-runtime-gym-space-validation) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-03 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-02 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
