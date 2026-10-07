@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:25:30.588Z",
+  "generated_at": "2026-10-07T13:36:57.871Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2340,6 +2340,19 @@
       "last_pushed_at": "2026-10-07T13:25:29.722Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:761": {
+      "kind": "problem",
+      "id": "761",
+      "title": "Reasoning Effort System Prompt Injection",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/761",
+      "path": "problems/0761-reasoning-effort-system-prompt-injection",
+      "first_solved_at": "2026-10-07T13:36:56.926Z",
+      "last_pushed_at": "2026-10-07T13:36:56.926Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
