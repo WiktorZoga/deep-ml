@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:47:55.803Z",
+  "generated_at": "2026-10-07T09:08:44.232Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2093,6 +2093,19 @@
       "last_pushed_at": "2026-10-07T08:47:54.999Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:673": {
+      "kind": "problem",
+      "id": "673",
+      "title": "Auto-Sized MLP from Gym Spaces",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/673",
+      "path": "problems/0673-auto-sized-mlp-from-gym-spaces",
+      "first_solved_at": "2026-10-07T09:08:40.994Z",
+      "last_pushed_at": "2026-10-07T09:08:40.994Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
