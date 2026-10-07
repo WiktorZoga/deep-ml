@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:51:45.285Z",
+  "generated_at": "2026-10-07T08:02:37.652Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2054,6 +2054,19 @@
       "last_pushed_at": "2026-10-07T07:51:44.336Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:667": {
+      "kind": "problem",
+      "id": "667",
+      "title": "Gym/Gymnasium API Migration Layer",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/667",
+      "path": "problems/0667-gym-gymnasium-api-migration-layer",
+      "first_solved_at": "2026-10-07T08:02:36.269Z",
+      "last_pushed_at": "2026-10-07T08:02:36.269Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
