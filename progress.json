@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:11:28.673Z",
+  "generated_at": "2026-10-07T13:11:55.317Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2311,7 +2311,7 @@
       "url": "https://www.deep-ml.com/problems/750",
       "path": "problems/0750-progressive-batch-size-scheduler",
       "first_solved_at": "2026-10-07T13:11:27.725Z",
-      "last_pushed_at": "2026-10-07T13:11:27.725Z",
+      "last_pushed_at": "2026-10-07T13:11:54.277Z",
       "language": "python",
       "lines": 23
     }
