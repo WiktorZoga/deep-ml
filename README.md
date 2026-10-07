@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**175** solved · 175 problems · 0 labs · 0 math
+**176** solved · 176 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-10-03 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Gym/Gymnasium API Migration Layer](https://www.deep-ml.com/problems/667) | easy | 2026-10-07 | [solution](problems/0667-gym-gymnasium-api-migration-layer) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-10-05 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
+| [Hash-Based Expert Routing for MoE Layers](https://www.deep-ml.com/problems/731) | easy | 2026-10-07 | [solution](problems/0731-hash-based-expert-routing-for-moe-layers) |
 | [Historical Context Compression Ratio](https://www.deep-ml.com/problems/455) | easy | 2026-10-03 | [solution](problems/0455-historical-context-compression-ratio) |
 | [Image Patch Embedding and Reconstruction](https://www.deep-ml.com/problems/705) | easy | 2026-10-07 | [solution](problems/0705-image-patch-embedding-and-reconstruction) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-03 | [solution](problems/0265-implement-2d-average-pooling) |
