@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**188** solved · 188 problems · 0 labs · 0 math
+**189** solved · 189 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bernoulli Masking Schedule for Masked Token Prediction](https://www.deep-ml.com/problems/708) | easy | 2026-10-07 | [solution](problems/0708-bernoulli-masking-schedule-for-masked-token-prediction) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-10-02 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-02 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-13 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
 | [Build a Latent-to-Real Action Mapping from a Small Labeled Set](https://www.deep-ml.com/problems/716) | easy | 2026-10-07 | [solution](problems/0716-build-a-latent-to-real-action-mapping-from-a-small-labeled-set) |
 | [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-10-03 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-02 | [solution](problems/0008-calculate-2x2-matrix-inverse) |

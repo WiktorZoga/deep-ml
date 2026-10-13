@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:47:41.344Z",
+  "generated_at": "2026-10-13T08:57:05.170Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2444,6 +2444,19 @@
       "last_pushed_at": "2026-10-13T08:47:40.632Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:951": {
+      "kind": "problem",
+      "id": "951",
+      "title": "BPE Decode Token IDs to Text",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/951",
+      "path": "problems/0951-bpe-decode-token-ids-to-text",
+      "first_solved_at": "2026-10-13T08:57:04.463Z",
+      "last_pushed_at": "2026-10-13T08:57:04.463Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
