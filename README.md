@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**183** solved · 183 problems · 0 labs · 0 math
+**184** solved · 184 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -186,6 +186,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stop-Gradient Operator in Jointly Trained Models](https://www.deep-ml.com/problems/711) | easy | 2026-10-07 | [solution](problems/0711-stop-gradient-operator-in-jointly-trained-models) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-03 | [solution](problems/0310-taylor-series-approximation) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-10-03 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
+| [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-13 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-12 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-02 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-02 | [solution](problems/0002-transpose-of-a-matrix) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:17:44.313Z",
+  "generated_at": "2026-10-13T08:21:10.848Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2379,6 +2379,19 @@
       "last_pushed_at": "2026-10-13T08:17:43.504Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-10-13T08:21:09.781Z",
+      "last_pushed_at": "2026-10-13T08:21:09.781Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
