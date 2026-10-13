@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**182** solved · 182 problems · 0 labs · 0 math
+**183** solved · 183 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -180,6 +180,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-02 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-02 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-02 | [solution](problems/0024-single-neuron) |
+| [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-10-13 | [solution](problems/0944-sliding-window-text-dataset-generator) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-02 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-02 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Stop-Gradient Operator in Jointly Trained Models](https://www.deep-ml.com/problems/711) | easy | 2026-10-07 | [solution](problems/0711-stop-gradient-operator-in-jointly-trained-models) |
