@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**187** solved · 187 problems · 0 labs · 0 math
+**188** solved · 188 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -170,6 +170,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-02 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reasoning Effort System Prompt Injection](https://www.deep-ml.com/problems/761) | easy | 2026-10-07 | [solution](problems/0761-reasoning-effort-system-prompt-injection) |
 | [Regularization via Information Bottleneck](https://www.deep-ml.com/problems/503) | easy | 2026-10-03 | [solution](problems/0503-regularization-via-information-bottleneck) |
+| [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-13 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-02 | [solution](problems/0003-reshape-matrix) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-10-03 | [solution](problems/0488-reward-model-validation-accuracy) |
 | [RL Environment Wrapper Profiling](https://www.deep-ml.com/problems/674) | easy | 2026-10-07 | [solution](problems/0674-rl-environment-wrapper-profiling) |
