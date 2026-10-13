@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**184** solved · 184 problems · 0 labs · 0 math
+**185** solved · 185 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-10-02 | [solution](problems/0145-adagrad-optimizer) |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-10-02 | [solution](problems/0148-adamax-optimizer) |
+| [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-13 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
 | [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-10-03 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-10-03 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Auto-Sized MLP from Gym Spaces](https://www.deep-ml.com/problems/673) | easy | 2026-10-07 | [solution](problems/0673-auto-sized-mlp-from-gym-spaces) |
