@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:32:58.395Z",
+  "generated_at": "2026-10-13T08:39:10.641Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2418,6 +2418,19 @@
       "last_pushed_at": "2026-10-13T08:32:57.639Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:948": {
+      "kind": "problem",
+      "id": "948",
+      "title": "Find Most Frequent Token Pair for BPE",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/948",
+      "path": "problems/0948-find-most-frequent-token-pair-for-bpe",
+      "first_solved_at": "2026-10-13T08:39:09.729Z",
+      "last_pushed_at": "2026-10-13T08:39:09.729Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
