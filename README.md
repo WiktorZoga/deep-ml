@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**193** solved · 193 problems · 0 labs · 0 math
+**194** solved · 194 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -202,6 +202,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Video Frame Sampling and Preprocessing Pipeline](https://www.deep-ml.com/problems/723) | easy | 2026-10-07 | [solution](problems/0723-video-frame-sampling-and-preprocessing-pipeline) |
 | [VLM Visual Token Count from Image Resolution and Patch Size](https://www.deep-ml.com/problems/442) | easy | 2026-10-03 | [solution](problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-14 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-14 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-14 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-14 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
