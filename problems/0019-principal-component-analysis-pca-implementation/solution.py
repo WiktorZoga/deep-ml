@@ -31,7 +31,7 @@ def pca(data: np.ndarray, k: int) -> np.ndarray:
     eigenvalues = eigenvalues[sorted_indices]
     eigenvectors = eigenvectors[:, sorted_indices]
 
-    for i in range(eigenvectors.shape[1]):
+    for i in range(d):
         ev = eigenvectors[:, i]
         valid_indices = np.where(np.abs(ev) > 1e-10)[0]
         if len(valid_indices) > 0:
