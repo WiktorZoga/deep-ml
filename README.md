@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**207** solved · 207 problems · 0 labs · 0 math
+**208** solved · 208 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -211,6 +211,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-21 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-21 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-21 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-16 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-14 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-14 | [solution](problems/0007-matrix-transformation) |
