@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**202** solved · 202 problems · 0 labs · 0 math
+**203** solved · 203 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -207,6 +207,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-19 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-20 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-16 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-14 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-14 | [solution](problems/0007-matrix-transformation) |
