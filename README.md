@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**211** solved · 211 problems · 0 labs · 0 math
+**212** solved · 212 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -212,6 +212,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-20 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-21 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-22 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-21 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-21 | [solution](problems/0054-implementing-a-simple-rnn) |
