@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:55:12.213Z",
+  "generated_at": "2026-10-26T12:55:19.810Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2779,7 +2779,7 @@
       "url": "https://www.deep-ml.com/problems/68",
       "path": "problems/0068-find-the-column-space-of-a-matrix",
       "first_solved_at": "2026-10-26T12:55:11.463Z",
-      "last_pushed_at": "2026-10-26T12:55:11.463Z",
+      "last_pushed_at": "2026-10-26T12:55:19.030Z",
       "language": "python",
       "lines": 22
     }
