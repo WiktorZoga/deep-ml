@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**218** solved · 218 problems · 0 labs · 0 math
+**219** solved · 219 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -202,6 +202,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Video Frame Sampling and Preprocessing Pipeline](https://www.deep-ml.com/problems/723) | easy | 2026-10-07 | [solution](problems/0723-video-frame-sampling-and-preprocessing-pipeline) |
 | [VLM Visual Token Count from Image Resolution and Patch Size](https://www.deep-ml.com/problems/442) | easy | 2026-10-03 | [solution](problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-21 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-10-27 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-27 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-19 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-14 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
