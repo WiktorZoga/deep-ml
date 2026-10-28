@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:05:17.642Z",
+  "generated_at": "2026-10-28T23:09:00.911Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2990,6 +2990,19 @@
       "last_pushed_at": "2026-10-28T23:05:16.687Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:149": {
+      "kind": "problem",
+      "id": "149",
+      "title": "Adadelta Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/149",
+      "path": "problems/0149-adadelta-optimizer",
+      "first_solved_at": "2026-10-28T23:08:59.610Z",
+      "last_pushed_at": "2026-10-28T23:08:59.610Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
