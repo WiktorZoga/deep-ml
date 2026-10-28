@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**232** solved · 232 problems · 0 labs · 0 math
+**233** solved · 233 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -244,6 +244,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-14 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-27 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-28 | [solution](problems/0094-implement-multi-head-attention) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-28 | [solution](problems/0085-positional-encoding-calculator) |
 
 ---
 
