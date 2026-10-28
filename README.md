@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**229** solved · 229 problems · 0 labs · 0 math
+**230** solved · 230 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -230,6 +230,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-10-28 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-21 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-16 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-28 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-28 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-14 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-14 | [solution](problems/0007-matrix-transformation) |
