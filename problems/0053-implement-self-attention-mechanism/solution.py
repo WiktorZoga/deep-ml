@@ -1,4 +1,5 @@
 import numpy as np
+import math
 
 def compute_qkv(X, W_q, W_k, W_v):
     """Compute Query, Key, Value matrices from input X and weight matrices."""
@@ -20,22 +21,16 @@ def self_attention(Q, K, V):
         Attention output of shape (seq_len, d_v)
     """
 
-    def softmax(x):
-        maximum = np.max(x, axis=-1, keepdims=True)
-
-        x = x - maximum
-        exp = np.exp(x)
-
-        d = np.sum(exp, axis=-1, keepdims=True)
-
-        return exp / d
-    
     seq_len, d_k = Q.shape
 
-    scores = Q @ K.T * (1.0 / np.sqrt(d_k))
+    scores = Q @ K.T / math.sqrt(d_k)
+
+    def softmax(z):
+        maxes = np.max(z, axis=-1, keepdims=True)
+        scores = np.exp(z - maxes)
+        sums = np.sum(scores, axis=-1, keepdims=True)
+        return scores / sums
 
     attn = softmax(scores)
 
     return attn @ V
-
-
