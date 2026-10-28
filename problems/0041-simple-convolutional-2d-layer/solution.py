@@ -2,6 +2,7 @@ import numpy as np
 
 def simple_conv2d(input_matrix: np.ndarray, kernel: np.ndarray, padding: int, stride: int):
 
+
 	x_padded = np.pad(input_matrix, pad_width=padding, mode='constant', constant_values=0)
 
 	padded_height, padded_width = x_padded.shape
