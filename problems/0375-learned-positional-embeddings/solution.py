@@ -13,6 +13,9 @@ def learned_positional_encoding(token_embeddings: np.ndarray, position_embedding
         Array of shape (batch_size, seq_len, d_model) with positional information applied
     """
 
-    _, seq_len, _ = token_embeddings.shape
+    batch_size, seq_len, d_model = token_embeddings.shape
+    max_seq_len, _ = position_embedding_table.shape
 
-    return token_embeddings + position_embedding_table[start_pos:start_pos+seq_len, :]
+    token_embeddings += position_embedding_table[start_pos:start_pos+seq_len]
+
+    return token_embeddings

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:34:24.525Z",
+  "generated_at": "2026-10-29T10:39:20.052Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1700,9 +1700,9 @@
       "url": "https://www.deep-ml.com/problems/375",
       "path": "problems/0375-learned-positional-embeddings",
       "first_solved_at": "2026-10-03T17:04:13.448Z",
-      "last_pushed_at": "2026-10-03T17:04:13.448Z",
+      "last_pushed_at": "2026-10-29T10:39:19.216Z",
       "language": "python",
-      "lines": 18
+      "lines": 21
     },
     "problem:377": {
       "kind": "problem",
