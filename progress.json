@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:53:53.972Z",
+  "generated_at": "2026-10-29T10:55:02.821Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1687,7 +1687,7 @@
       "url": "https://www.deep-ml.com/problems/374",
       "path": "problems/0374-character-level-tokenizer-stoi-itos-bos",
       "first_solved_at": "2026-10-03T16:59:18.959Z",
-      "last_pushed_at": "2026-10-29T10:53:53.151Z",
+      "last_pushed_at": "2026-10-29T10:55:01.719Z",
       "language": "python",
       "lines": 44
     },
