@@ -7,19 +7,11 @@ class CharTokenizer:
             text: A string used to build the vocabulary.
         """
 
-        self.bos_token = "<BOS>"
-        self.eos_token = "<EOS>"
+        self.vocab = ['<BOS>', '<EOS>'] + list(sorted(set((list(text)))))
+        self.vocab_size = len(self.vocab)
 
-        chars = list(sorted(set(text)))
-
-        self.stoi = {token: idx + 2 for idx, token in enumerate(chars)}
-
-        self.stoi[self.bos_token] = 0
-        self.stoi[self.eos_token] = 1
-
-        self.itos = {idx: token for token, idx in self.stoi.items()}
-
-        self.vocab_size = len(chars) + 2
+        self.stoi = {s: i for i, s in enumerate(self.vocab)}
+        self.itos = {i: s for i, s in enumerate(self.vocab)}
 
 
     def encode(self, text: str) -> list:
@@ -32,10 +24,8 @@ class CharTokenizer:
             List of integer indices.
         """
 
-        tokens = [self.bos_token] + list(text) + [self.eos_token]
-
-        return [self.stoi[token] for token in tokens]
-
+        return [0] + [self.stoi[t] for t in list(text)] + [1]
+        
     def decode(self, indices: list) -> str:
         """
         Decode a list of token indices back into a string.
@@ -45,4 +35,10 @@ class CharTokenizer:
         Returns:
             Decoded string.
         """
-        return ''.join([self.itos[idx] for idx in indices])
+        return ''.join([self.itos[i] for i in indices])
+
+# bos eos e h l o
+# 0   1   2 3 4 5
+
+# hello
+# 0 3 2 4 4 5 1
