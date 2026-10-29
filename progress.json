@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:22:04.727Z",
+  "generated_at": "2026-10-29T10:34:24.525Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3029,6 +3029,19 @@
       "last_pushed_at": "2026-10-28T23:42:13.747Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1254": {
+      "kind": "problem",
+      "id": "1254",
+      "title": "Asymmetric Uniform Quantization with Zero-Point",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1254",
+      "path": "problems/1254-asymmetric-uniform-quantization-with-zero-point",
+      "first_solved_at": "2026-10-29T10:34:23.560Z",
+      "last_pushed_at": "2026-10-29T10:34:23.560Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
