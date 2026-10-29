@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:42:14.750Z",
+  "generated_at": "2026-10-29T10:22:04.727Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2558,9 +2558,9 @@
       "url": "https://www.deep-ml.com/problems/26",
       "path": "problems/0026-implementing-basic-autograd-operations",
       "first_solved_at": "2026-10-16T09:09:01.022Z",
-      "last_pushed_at": "2026-10-16T09:09:01.022Z",
+      "last_pushed_at": "2026-10-29T10:22:01.007Z",
       "language": "python",
-      "lines": 71
+      "lines": 66
     },
     "problem:32": {
       "kind": "problem",
