@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**234** solved · 234 problems · 0 labs · 0 math
+**235** solved · 235 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -206,6 +206,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-10-27 | [solution](problems/0087-adam-optimizer) |
 | [Asymmetric Uniform Quantization with Zero-Point](https://www.deep-ml.com/problems/1254) | medium | 2026-10-29 | [solution](problems/1254-asymmetric-uniform-quantization-with-zero-point) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-27 | [solution](problems/0079-binomial-distribution-probability) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-10-30 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-19 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-14 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-27 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
