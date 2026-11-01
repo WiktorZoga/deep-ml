@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:01:33.112Z",
+  "generated_at": "2026-11-01T22:29:24.636Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3107,6 +3107,19 @@
       "last_pushed_at": "2026-11-01T22:01:31.514Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:230": {
+      "kind": "problem",
+      "id": "230",
+      "title": "3D CNN Forward Pass Implementation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/230",
+      "path": "problems/0230-3d-cnn-forward-pass-implementation",
+      "first_solved_at": "2026-11-01T22:29:23.094Z",
+      "last_pushed_at": "2026-11-01T22:29:23.094Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
