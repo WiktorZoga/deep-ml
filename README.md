@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**237** solved · 237 problems · 0 labs · 0 math
+**238** solved · 238 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -244,6 +244,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-19 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-16 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-14 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-11-01 | [solution](problems/0229-sparse-moe-top-k-routing) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-27 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-11-01 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-28 | [solution](problems/0094-implement-multi-head-attention) |
