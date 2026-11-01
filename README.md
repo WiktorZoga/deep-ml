@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**236** solved · 236 problems · 0 labs · 0 math
+**237** solved · 237 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -245,6 +245,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-16 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-14 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-27 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-11-01 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-28 | [solution](problems/0094-implement-multi-head-attention) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-11-01 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-28 | [solution](problems/0085-positional-encoding-calculator) |
